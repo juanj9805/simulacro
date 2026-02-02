@@ -112,32 +112,21 @@
     {
       "id": "593f",
       "date": "Sun Feb 01 2026 20:25:48 GMT-0500 (Colombia Standard Time)",
-      "productsId": [
-        "4",
-        "4"
-      ],
+      "productsId": ["4", "4"],
       "userId": "1",
       "total": 3.98
     },
     {
       "id": "b99b",
       "date": "Sun Feb 01 2026 21:12:14 GMT-0500 (Colombia Standard Time)",
-      "productsId": [
-        "2sa",
-        "2sa",
-        "3ds"
-      ],
+      "productsId": ["2sa", "2sa", "3ds"],
       "userId": "1",
       "total": 11.99
     },
     {
       "id": "d2ba",
       "date": "Sun Feb 01 2026 21:35:09 GMT-0500 (Colombia Standard Time)",
-      "productsId": [
-        "6",
-        "6",
-        "3ds"
-      ],
+      "productsId": ["6", "6", "3ds"],
       "userId": "1",
       "total": 20.97
     }
