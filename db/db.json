@@ -17,6 +17,12 @@
       "email": "adri.com",
       "password": "123",
       "rol": "user"
+    },
+    {
+      "id": "95c1",
+      "email": "hola@mail.com",
+      "password": "ganar",
+      "rol": "user"
     }
   ],
   "products": [
