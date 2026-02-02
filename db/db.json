@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "email": "mail.com",
+      "password": "123",
+      "rol": "admin",
+      "id": "96b2"
+    },
+    {
+      "email": "mail.com",
+      "password": "12",
+      "rol": "user",
+      "id": "27d9"
+    },
+    {
+      "id": "0dc5",
+      "email": "adri.com",
+      "password": "123",
+      "rol": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Burger",
+      "category": "food",
+      "price": 5.99,
+      "stock": 25,
+      "image": "https://picsum.photos/200?1",
+      "description": "Beef burger with lettuce, tomato, and cheese"
+    },
+    {
+      "id": "2sa",
+      "name": "Chicken Wrap",
+      "category": "food",
+      "price": 4.5,
+      "stock": 30,
+      "image": "https://picsum.photos/200?2",
+      "description": "Grilled chicken wrap with vegetables"
+    },
+    {
+      "id": "3ds",
+      "name": "French Fries",
+      "category": "food",
+      "price": 2.99,
+      "stock": 50,
+      "image": "https://picsum.photos/200?3",
+      "description": "Crispy golden fries"
+    },
+    {
+      "id": "4",
+      "name": "Coca-Cola",
+      "category": "drink",
+      "price": 1.99,
+      "stock": 100,
+      "image": "https://picsum.photos/200?4",
+      "description": "Cold soft drink"
+    },
+    {
+      "id": "5",
+      "name": "Orange Juice",
+      "category": "drink",
+      "price": 2.5,
+      "stock": 40,
+      "image": "https://picsum.photos/200?5",
+      "description": "Fresh squeezed orange juice"
+    },
+    {
+      "id": "6",
+      "name": "Veggie Pizza",
+      "category": "food",
+      "price": 8.99,
+      "stock": 15,
+      "image": "https://picsum.photos/200?6",
+      "description": "Pizza with mixed vegetables and cheese"
+    },
+    {
+      "id": "7",
+      "name": "Chocolate Cake",
+      "category": "dessert",
+      "price": 3.99,
+      "stock": 20,
+      "image": "https://picsum.photos/200?7",
+      "description": "Slice of chocolate cake"
+    },
+    {
+      "id": "8",
+      "name": "Ice Cream",
+      "category": "dessert",
+      "price": 2.75,
+      "stock": 35,
+      "image": "https://picsum.photos/200?8",
+      "description": "Vanilla ice cream scoop"
+    },
+    {
+      "id": "9",
+      "name": "Coffee",
+      "category": "drink",
+      "price": 1.5,
+      "stock": 60,
+      "image": "https://picsum.photos/200?9",
+      "description": "Hot black coffee"
+    }
+  ],
+  "shoppingCart": [
+    {
+      "id": "593f",
+      "date": "Sun Feb 01 2026 20:25:48 GMT-0500 (Colombia Standard Time)",
+      "productsId": [
+        "4",
+        "4"
+      ],
+      "userId": "1",
+      "total": 3.98
+    },
+    {
+      "id": "b99b",
+      "date": "Sun Feb 01 2026 21:12:14 GMT-0500 (Colombia Standard Time)",
+      "productsId": [
+        "2sa",
+        "2sa",
+        "3ds"
+      ],
+      "userId": "1",
+      "total": 11.99
+    },
+    {
+      "id": "d2ba",
+      "date": "Sun Feb 01 2026 21:35:09 GMT-0500 (Colombia Standard Time)",
+      "productsId": [
+        "6",
+        "6",
+        "3ds"
+      ],
+      "userId": "1",
+      "total": 20.97
+    }
+  ]
+}
